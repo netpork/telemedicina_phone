@@ -1,0 +1,32 @@
+{
+  "name": "telemed",
+  "version": "0.0.0",
+  "authors": [
+    "netpork <netpork@gmail.com>"
+  ],
+  "description": "telemedicina",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.0",
+    "sammy": "0.7.5",
+    "bootstrap": "3.1.1",
+    "mustache": "0.8.1",
+    "hammerjs": "1.0.x",
+    "jquery-hammerjs": "1.0.6",
+    "tweenlite": ">=1.11.5",
+    "tweenlite-css": ">=1.11.5",
+    "normalize-css": ">=3.0.1",
+    "topcoat": "*",
+    "flexboxgrid": ">=3.0.1",
+    "jquery.transit": ">=0.9.9",
+    "fastclick": ">=1.0.1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "topcoat-grid",
+  "version": "0.1.0",
+  "description": "simple grid built on css flex",
+  "main": "Gruntfile.js",
+  "style": "src/grid.css",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "flex",
+    "flexbox",
+    "grid",
+    "system"
+  ],
+  "author": {
+    "name": "Kristofer Joseph",
+    "twitter": "dam"
+  },
+  "license": "MIT, Apache2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topcoat/topcoat-grid"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-cssmin": "~0.6.2"
+  }
+}

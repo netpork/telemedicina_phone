@@ -40,17 +40,25 @@ Telemed.measures = (function(){
 
 		switch(name) {
 		case 'weight':
+			container.addClass('full-graph');
+			container.removeClass('small-graph');
 			showWeightGraph();
 			break;
 		case 'sugar':
+			container.addClass('full-graph');
+			container.removeClass('small-graph');
 			showSugarGraph();
 			break;
 		case 'pressure':
+			container.addClass('full-graph');
+			container.removeClass('small-graph');
 			showPressureGraph();
 			insertPressureData();
 			testPressureNewMeasures();
 			break;
 		case 'status':
+			container.removeClass('full-graph');
+			container.addClass('small-graph');
 			showPieStatus();
 			// TweenLite.set(insertButton, {opacity: 0});
 			// TweenLite.to(insertButton, 1.0, {autoAlpha: 1, delay: 1});

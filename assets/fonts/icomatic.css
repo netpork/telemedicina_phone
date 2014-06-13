@@ -40,6 +40,10 @@ src: url('icomatic.eot?#iefix') format("embedded-opentype"),
 
  }
 
+.icon-back-button {
+    font-size: 1rem;
+}
+
  .icon-label {
     margin-left: 10px;
  }

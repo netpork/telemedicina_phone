@@ -79,14 +79,14 @@ body {
 		}
 
 		.menu-content section {
-			margin-bottom: 70px;
+			margin-bottom: 40px;
 		}
 
 		.menu-content section .card {
 			position: relative;
-			width: 230px;
-			height: 130px;
-			margin-right: 40px;
+			width: 110px;
+			height: 60px;
+			margin-right: 20px;
 			background-color: #9fc5f8;
 			border: 2px solid #6fa8dc;
 			display: inline-block;
@@ -97,9 +97,9 @@ body {
 			color: #08346e;
 			/*font-family: 'robotoregular', Tahoma, Verdana, Segoe, sans-serif;*/
 			font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-			font-size: 2em;
+			font-size: 1em;
 			font-weight: 600;
-			line-height: 4.2em;
+			line-height: 4em;
 			/*display: inline-block;*/
 		}
 
@@ -107,18 +107,18 @@ body {
 		.left-container section .mini-card {
 			position: relative;
 			margin: 0 auto;
-			width: 180px;
-			height: 80px;
+			width: 100px;
+			height: 40px;
 			display: block;
 			text-align: center;
-			margin-bottom: 30px;
+			margin-bottom: 20px;
 		}
 
 		.left-container section .mini-card-active span {
 			color: #08346e;
 			/*font-family: 'robotoregular', Tahoma, Verdana, Segoe, sans-serif;*/
 			font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-			font-size: 1.6em;
+			font-size: 0.8em;
 			font-weight: 600;
 			line-height: 3.3em;
 			/*display: inline-block;*/
@@ -128,7 +128,7 @@ body {
 			color: #000;
 			/*font-family: 'robotoregular', Tahoma, Verdana, Segoe, sans-serif;*/
 			font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-			font-size: 1.6em;
+			font-size: 0.8em;
 			font-weight: 200;
 			line-height: 3.3em;
 			/*display: inline-block;*/
@@ -164,12 +164,12 @@ body {
 				position: absolute;
 				background-color: #ec514e;
 				color: white;
-				width: 10px;
-				height: 10px;
-				top: -15px;
-				right: -15px;
-				padding: 10px;
-				font-size: 1em;
+				width: 8px;
+				height: 8px;
+				top: -10px;
+				right: -10px;
+				padding: 5px;
+				font-size: 0.7em;
 				line-height: 0.8em;
 				font-weight: bold;
 				/*border: 2px solid black;*/
@@ -228,12 +228,12 @@ body {
 
 		.left-info-text {
 			font-weight: 200;
-			font-size: 2em;
+			font-size: 1.2em;
 		}
 
 		.right-info-text {
 			font-weight: 200;
-			font-size: 2em;
+			font-size: 1.4em;
 		}
 
 		.right-content header h2 {

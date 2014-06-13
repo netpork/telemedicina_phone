@@ -240,7 +240,6 @@
 			<div class="offset-1-hand column-4-hand">
 				<button data-button="backToSecond" class="status-button topcoat-button--cta">Nazaj</button>
 			</div>
-
 			
 			<div class="offset-2-hand column-4-hand">
 				<button data-button="save" class="status-button topcoat-button--cta">Zaključi</button>

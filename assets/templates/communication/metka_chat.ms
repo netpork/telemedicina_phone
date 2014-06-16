@@ -37,7 +37,7 @@
 		<div id="" class="offset-1-hand column-auto-hand right-container" style="display: block; margin-top: 0px;">
 			<!-- chat 1 -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
@@ -68,7 +68,7 @@
 
 			<!-- chat 2 -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
@@ -99,7 +99,7 @@
 
 			<!-- chat 3 writing -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
@@ -119,7 +119,7 @@
 
 			<!-- input text box -->
 			<div class="row">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="chat-box menu-rounded">
 						<p class="page-chat-subtitles-writing">
 							Vnose besedila ...

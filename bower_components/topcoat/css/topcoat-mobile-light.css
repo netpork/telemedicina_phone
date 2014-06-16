@@ -589,9 +589,9 @@
 .topcoat-button--large--quiet,
 .topcoat-button--cta,
 .topcoat-button--large--cta {
-  padding: 0 1.25rem;
-  font-size: 16px;
-  line-height: 3rem;
+  padding: 0 0.5rem;
+  font-size: 10px;
+  line-height: 1.5rem;
   letter-spacing: 1px;
   color: #454545;
   text-shadow: 0 1px #fff;
@@ -1931,10 +1931,11 @@ limitations under the License.
 */
 
 .topcoat-notification {
-  padding: 0.15em 0.5em 0.2em;
+  padding: 0.1em 0.5em 0.1em;
   border-radius: 2px;
   background-color: #ec514e;
   color: #fff;
+  font-size: 0.7rem;
 }
 
 /**
@@ -2215,6 +2216,7 @@ input[type="radio"]:checked + .topcoat-radio-button__checkmark:after {
   position: relative;
   width: 1.875rem;
   height: 1.875rem;
+  -webkit-transform: scale(0.8);
 }
 
 .topcoat-radio-button__checkmark:after {

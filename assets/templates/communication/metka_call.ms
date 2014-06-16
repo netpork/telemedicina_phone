@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -31,7 +31,7 @@
 		</div>
 
 <!-- call -->
-		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 30px;">
+		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 0px;">
 			<div class="row center-hand spans">
 				<p class="page-titles">V klicu</p>
 			</div>

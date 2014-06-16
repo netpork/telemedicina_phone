@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -21,7 +21,7 @@
 					<p id="name">Tone</p>
 				</div>
 				<div >
-					<img id="image" src="assets/img/Tone.jpg" alt="tone">
+					<img id="image" src="assets/img/Tone.jpg" width="100" alt="tone">
 				</div>
 				<div> 
 					<button data-button="tone_call" class="topcoat-button buttons">Klic</button>
@@ -31,19 +31,19 @@
 		</div>
 
 <!-- video call -->
-		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 30px;">
+		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 0px;">
 			
 			<div class="row">
 				<div class="offset-2-hand column-8-hand">
-					<img src="assets/img/tone-video.png" width="416" height="227" alt="video">
+					<img src="assets/img/tone-video.png" width="120" alt="video">
 
 					<div class="row" style="margin-top: 10px;">
-						<div class="column-auto-hand">
+						<div class="column-4-hand">
 							<p class="page-subtitles" style="margin: 10px 0; padding: 0;">Kličem</p>
 						</div>
 						<div class="column-auto-hand">
 							<label class="topcoat-radio-button">
-							  Utišaj mikrofon&nbsp;&nbsp;&nbsp;&nbsp;
+							  Utišaj mikrofon
 							  <input type="radio" name="topcoat">
 							  <div class="topcoat-radio-button__checkmark"></div>
 							</label>

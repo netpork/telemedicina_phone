@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -26,7 +26,7 @@
 			<section id="aspirin" style="display: none;">
 				<div class="row end-hand">
 						<div class="column-6-hand">
-							<img src="assets/img/aspirin-box.png" width="360" height="239" alt="aspirin">
+							<img src="assets/img/aspirin-box.png" width="150" alt="aspirin">
 						</div>
 					</div>
 					<div class="row">
@@ -43,7 +43,7 @@
 						</div>
 					</div>
 					<div class="row center-hand">
-						<div class="column-2-hand">
+						<div class="column-5-hand">
 							<button class="takenButton topcoat-button--cta">Opravljeno</button>
 						</div>
 					</div>
@@ -53,7 +53,7 @@
 			<section id="novonorm" style="display: none;">
 				<div class="row end-hand">
 						<div class="column-6-hand">
-							<img src="assets/img/novonorm.png" width="360" height="239" alt="novonorm">
+							<img src="assets/img/novonorm.png" width="150" alt="novonorm">
 						</div>
 					</div>
 					<div class="row">
@@ -67,7 +67,7 @@
 						</div>
 					</div>
 					<div class="row center-hand">
-						<div class="column-2-hand">
+						<div class="column-5-hand">
 							<button class="takenButton topcoat-button--cta">Opravljeno</button>
 						</div>
 					</div>
@@ -77,7 +77,7 @@
 			<section id="ampril" style="display: none;">
 				<div class="row end-hand">
 						<div class="column-6-hand">
-							<img src="assets/img/ampril.png" width="360" height="208" alt="ampril">
+							<img src="assets/img/ampril.png" width="150" alt="ampril">
 						</div>
 					</div>
 					<div class="row">
@@ -91,7 +91,7 @@
 						</div>
 					</div>
 					<div class="row center-hand">
-						<div class="column-2-hand">
+						<div class="column-5-hand">
 							<button class="takenButton topcoat-button--cta">Opravljeno</button>
 						</div>
 					</div>

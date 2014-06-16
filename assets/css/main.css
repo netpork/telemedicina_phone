@@ -301,7 +301,7 @@ body {
 			}
 
 			.pressure-text p {
-				margin: 0 0 30px 0;
+				margin: 0 0 2px 0;
 				padding: 0;
 
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
@@ -326,7 +326,7 @@ body {
 
 			.page-titles {
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 1.5em;
+				font-size: 1em;
 				font-weight: 200;
 				line-height: 0;
 			}
@@ -341,33 +341,34 @@ body {
 
 			.page-subtitles {
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 1.4em;
+				font-size: 0.9em;
 				font-weight: 200;
 				line-height: 0;
 			}
 
 			.page-chat-subtitles-name {
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 1em;
+				font-size: 0.6em;
 				font-weight: 600;
 				line-height: 0;
 			}
 
 			.page-chat-subtitles-date {
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 0.7em;
+				font-size: 0.6em;
 				font-weight: 600;
-				line-height: 1em;
+				line-height: 0;
 				text-align: right;
 			}
 
 			.page-chat-subtitles-writing {
 				color: silver;
+				margin: 0;
 			}
 
 			.page-chat {
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 1em;
+				font-size: 0.7em;
 				font-weight: 200;
 				line-height: 1em;
 				margin: 0;
@@ -380,12 +381,12 @@ body {
 			}
 
 			.chat-box-margins {
-				margin-bottom: 30px;
+				margin-bottom: 10px;
 			}
 
 			.titles-margins {
 				margin: 0;
-				padding-top: 30px;
+				padding-top: 10px;
 			}
 
 			.radio-rows {
@@ -408,7 +409,7 @@ body {
 }
 
 	.call-left section div {
-		padding-bottom: 20px;
+		padding-bottom: 10px;
 	}
 
 	.spans p {
@@ -469,4 +470,8 @@ body {
 
 .small-graph {
 	height: 80%;
+}
+
+.chat-header {
+	margin: 0;
 }

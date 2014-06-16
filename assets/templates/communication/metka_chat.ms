@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -21,7 +21,7 @@
 					<p id="name">Metka</p>
 				</div>
 				<div >
-					<img id="image" src="assets/img/Metka.jpg" alt="metka">
+					<img id="image" src="assets/img/Metka.jpg" width="130" alt="metka">
 				</div>
 				<div> 
 					<button data-button="metka_call" class="topcoat-button buttons" style="min-width: 116px;">Klic</button>
@@ -34,7 +34,7 @@
 		</div>
 
 <!-- chat -->
-		<div id="" class="offset-1-hand column-auto-hand right-container" style="display: block; margin-top: 30px;">
+		<div id="" class="offset-1-hand column-auto-hand right-container" style="display: block; margin-top: 0px;">
 			<!-- chat 1 -->
 			<div class="row chat-box-margins">
 				<div class="column-8-hand">

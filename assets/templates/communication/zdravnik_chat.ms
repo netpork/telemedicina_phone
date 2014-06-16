@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -21,7 +21,7 @@
 					<p id="name">Dr. Zoran Novak</p>
 				</div>
 				<div >
-					<img id="image" src="assets/img/doctor.jpg" width="205" height="246" alt="zdravnik">
+					<img id="image" src="assets/img/doctor.jpg" width="130" alt="zdravnik">
 				</div>
 				<div> 
 					<button data-button="zdravnik_call" class="topcoat-button buttons" style="min-width: 116px;">Klic</button>
@@ -34,19 +34,19 @@
 		</div>
 
 <!-- chat -->
-		<div id="" class="offset-1-hand column-auto-hand right-container" style="display: block; margin-top: 30px;">
+		<div id="" class="offset-1-hand column-auto-hand right-container" style="display: block; margin-top: 5px;">
 			<!-- chat 1 -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
 					    	<span class="icomatic icon-large text-shadow">user</span>
 						</div>
 						<!-- chat header -->
-						<div class="column-auto-hand">
+						<div class="column-auto-hand chat-header">
 							<div class="row between-hand">
-								<div class="column-2-hand">
+								<div class="column-3-hand">
 									<p class="page-chat-subtitles-name">Dr. Novak</p>
 								</div>
 								<div class="column-3-hand">
@@ -67,7 +67,7 @@
 
 			<!-- chat 2 -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
@@ -98,7 +98,7 @@
 
 			<!-- chat 3 writing -->
 			<div class="row chat-box-margins">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="row">			
 						<!-- icon -->
 						<div class="column-1-hand">
@@ -118,7 +118,7 @@
 
 			<!-- input text box -->
 			<div class="row">
-				<div class="column-8-hand">
+				<div class="column-9-hand">
 					<div class="chat-box menu-rounded">
 						<p class="page-chat-subtitles-writing">
 							Vnose besedila ...

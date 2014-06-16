@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -21,7 +21,7 @@
 					<p id="name">Tone</p>
 				</div>
 				<div >
-					<img id="image" src="assets/img/Tone.jpg" alt="Tone">
+					<img id="image" src="assets/img/Tone.jpg" width="130" alt="Tone">
 				</div>
 				<div> 
 					<button data-button="tone_videoCall" class="topcoat-button buttons">Video klic</button>
@@ -31,7 +31,7 @@
 		</div>
 
 <!-- call -->
-		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 30px;">
+		<div id="" class="column-auto-hand right-container" style="display: block; margin-top: 0px;">
 			<div class="row center-hand spans">
 				<p class="page-titles">V klicu</p>
 			</div>
@@ -47,7 +47,7 @@
 					</label>
 				</div>
 			</div>
-			<div class="row center-hand" style="margin-top: 30px;">
+			<div class="row center-hand" style="margin-top: 10px;">
 				<button data-button="tone_cancel" class="topcoat-button--cta buttons">Prekini</button>	
 			</div>
 

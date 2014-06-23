@@ -27,8 +27,8 @@ Telemed.info = (function(){
 
 	function menuHandler(oldPage, newPage, name) {
 		if (subIndex === 1) {
-			showAlert();
-			// showNativeAlert();
+			// showAlert();
+			showNativeAlert();
 			return false;
 		}
 

@@ -2,7 +2,7 @@
 	
 	<header class="topcoat-navigation-bar row">
 		<div class="topcoat-navigation-bar__item column-1-hand">
-            <button id="backButton" data-route="#/" class="topcoat-icon-button--large--quiet" style="width: 100px;">
+            <button id="backButton" data-route="#/" class="topcoat-icon-button--quiet" style="width: 100px;">
                 <span class="icomatic">back</span>
                 Nazaj
             </button>
@@ -16,68 +16,68 @@
 	<section class="row" style="height: 91%; background-color: whiteSmoke;">
 		<div class="column-3-hand left-container text-shadow">
 			
-			<section id="sidebar-menu" class="left-content" style="opacity: 0;"></section>
+			<section id="sidebar-menu" class="left-content" style="opacity: 0; margin-top: 15px !important;"></section>
 	
 		</div>
 
 <!-- info -->
-		<div id="infoContainer" class="column-auto-hand right-container" style="display: block; margin-top: 20px;">
+		<div id="infoContainer" class="column-auto-hand right-container" style="display: block; margin-top: 10px;">
 		
 			<section id="gridContainer" style="display: block;">
 			<!-- grid breaking news-->
 				<div class="row around-hand gridrow">
 					<div class="column-2-hand">
-						<img src="assets/img/grid/aktualno1.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/aktualno1.jpg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/aktualno2.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/aktualno2.jpg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/aktualno3.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/aktualno3.jpg" alt="" width="80" height="50">
 					</div>
 				</div>
 
 				<!-- grid sport-->
 				<div class="row around-hand gridrow">
 					<div class="column-2-hand">
-						<img src="assets/img/grid/sport1.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/sport1.jpeg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/sport2.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/sport2.jpeg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/sport3.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/sport3.jpeg" alt="" width="80" height="50">
 					</div>
 				</div>
 
 				<!-- grid culture -->
 				<div class="row around-hand gridrow">
 					<div class="column-2-hand">
-						<img src="assets/img/grid/kultura1.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/kultura1.jpeg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/kultura2.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/kultura2.jpeg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/kultura3.jpeg" alt="" width="160" height="100">
+						<img src="assets/img/grid/kultura3.jpeg" alt="" width="80" height="50">
 					</div>
 				</div>
 
 				<!-- grid entertainment-->
 				<div class="row around-hand gridrow">
 					<div class="column-2-hand">
-						<img src="assets/img/grid/zabava1.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/zabava1.jpg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/zabava2.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/zabava2.jpg" alt="" width="80" height="50">
 					</div>
 					<div class="column-2-hand">
-						<img src="assets/img/grid/zabava3.jpg" alt="" width="160" height="100">
+						<img src="assets/img/grid/zabava3.jpg" alt="" width="80" height="50">
 					</div>
 				</div>
 			</section>
 
-			<section id="newsContainer" style="display: none; padding: 20px;">
+			<section id="newsContainer" style="display: none; padding: 10px;">
 				<p class="news-titles">Dobro je, da Evropi pokažemo naš potencial in dobre izvajalce!</p>
 				<p>Azerbajdžanska evrovizijska izkušnja je samo še spomin na zelo pozitivno izkušnjo. "Nedvomno bi jo ponovila še enkrat. Ne še zdaj, mogoče čez nekaj let," priznava pevka Eva Boto.
 				</p>

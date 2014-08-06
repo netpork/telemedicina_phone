@@ -80,7 +80,8 @@
     <!-- <icon src="icon-48.png" gap:platform="android" /> -->
     <icon src="icon.png" gap:platform="ios" width="72" height="72" />
 
-    <gap:splash src="screen-ipad-landscape.png" gap:platform="ios" width="1024" height="768" />
+    <!-- <gap:splash src="screen-ipad-landscape.png" gap:platform="ios" width="1024" height="768" /> -->
+    <gap:splash src="screen-iphone-landscape.png" gap:platform="ios" width="960" height="640" />
 
 
 

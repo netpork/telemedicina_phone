@@ -52,9 +52,9 @@ Telemed.reminders = (function() {
 	}
 
 	function isMedicineTaken() {
-		showConfirm('Ali ste ze vzeli ' + Telemed.sidebarMenu.getOldMenu());
-		// var c = confirm('Ali ste ze vzeli ' + Telemed.sidebarMenu.getOldMenu());
-		// Telemed.sidebarMenu.confirmed(c);
+		// showConfirm('Ali ste ze vzeli ' + Telemed.sidebarMenu.getOldMenu());
+		var c = confirm('Ali ste ze vzeli ' + Telemed.sidebarMenu.getOldMenu());
+		Telemed.sidebarMenu.confirmed(c);
 	}
 
 	function showConfirm(message) {

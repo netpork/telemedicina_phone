@@ -86,7 +86,7 @@ body {
 
 		.menu-content section .card {
 			position: relative;
-			width: 110px;
+			width: 130px;
 			height: 60px;
 			margin-right: 20px;
 			background-color: #9fc5f8;
@@ -99,9 +99,9 @@ body {
 			color: #08346e;
 			/*font-family: 'robotoregular', Tahoma, Verdana, Segoe, sans-serif;*/
 			font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-			font-size: 1em;
+			font-size: 1.3em;
 			font-weight: 600;
-			line-height: 4em;
+			line-height: 3em;
 			/*display: inline-block;*/
 		}
 
@@ -318,7 +318,7 @@ body {
 				padding: 0;
 
 				font-family: 'Source Sans', Tahoma, Verdana, Segoe, sans-serif;
-				font-size: 0.6em;
+				font-size: 0.9em;
 				font-weight: 200;
 				line-height: 1.5em;			
 			}

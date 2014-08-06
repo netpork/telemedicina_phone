@@ -30,7 +30,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="offset-1-hand column-6-hand pressure-text">
+						<div class="offset-1-hand column-10-hand pressure-text">
 							<p>
 								Odrasli: Odmerek je 1 do 2 tableti (500 - 1000mg), ki ga lahko ponovno vzamete čez 4 do 8ur.
 							</p>
@@ -57,11 +57,9 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="offset-1-hand column-6-hand pressure-text">
+						<div class="offset-1-hand column-10-hand pressure-text">
 							<p>
 								Normalen začetni odmerek je 0,5mg tik pred vsakim glavnim obrokom. Tablete vzemite s kozarcem vode tik pre ali do 30 minut pred vsakim glavnim obrokom.
-							</p>
-							<p>
 								Zdravnik lahko odmerek zviša do 4mg, ki ga vzemite tik pre ali do 30 minut pred glavnimi obroki. Največji priporočeni dnevni odmerek je 16mg.
 							</p>
 						</div>
@@ -81,7 +79,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="offset-1-hand column-6-hand pressure-text">
+						<div class="offset-1-hand column-10-hand pressure-text">
 							<p>
 								Običajni začetni odmerek je 1,25mg ali 2,5mg enkrat na dan. Zdravnik vam bo prilagajal količino zdravila, dokler vaš krvni tlak ne bo urejen.
  							</p>

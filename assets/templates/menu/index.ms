@@ -10,25 +10,25 @@
 		<section>
 			<div data-card="userData" class="card card-shadow menu-rounded">
 				<span data-card="userData">Moji podatki</span>
-				<div class="badge card-shadow badge-hidden">0</div>
+				<div class="badge badge-hidden">0</div>
 			</div>
 			<div data-card="measures" class="card card-shadow menu-rounded">
 				<span data-card="measures">Meritve</span>
-				<div class="badge card-shadow badge-hidden">0</div>					
+				<div class="badge badge-hidden">0</div>					
 			</div>
-			<div data-card="reminders" class="card card-shadow menu-rounded">
+			<div data-card="reminders" class="card card-shadow menu-rounded" style="margin-right: 0;">
 				<span data-card="reminders">Opomniki</span>
-				<div class="badge card-shadow badge-hidden">0</div>
+				<div class="badge badge-hidden">0</div>
 			</div>
 		</section>
 		<section>
 			<div data-card="communication" class="card card-shadow menu-rounded">
 				<span data-card="communication">Komunikacija</span>
-				<div class="badge card-shadow badge-hidden">0</div>
+				<div class="badge badge-hidden">0</div>
 			</div>
-			<div data-card="info" class="card card-shadow menu-rounded">
+			<div data-card="info" class="card card-shadow menu-rounded" style="margin-right: 0;">
 				<span data-card="info">Informacije</span>
-				<div class="badge card-shadow badge-hidden">0</div>
+				<div class="badge badge-hidden">0</div>
 			</div>
 		</section>
 	</div>

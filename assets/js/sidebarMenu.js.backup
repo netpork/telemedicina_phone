@@ -80,38 +80,38 @@ Telemed.sidebarMenu = (function($){
 	info = [
 		{
 			cardInfo: 'news',
-			text: 'Pedijatrija'
+			text: 'Aktualno'
 		},
 		{
 			cardInfo: 'sport',
-			text: 'Dermatologija'
+			text: 'Šport'
 		},
 		{
 			cardInfo: 'culture',
-			text: 'Psihijatrija'
+			text: 'Kultura'
 		},
 		{
 			cardInfo: 'entertainment',
-			text: 'Stomatologija'
+			text: 'Zabava'
 		}
 	],
 
 	news = [
 		{
 			cardInfo: 'slovenia',
-			text: 'Nedonošenčki'
+			text: 'Slovenija'
 		},
 		{
 			cardInfo: 'world',
-			text: 'Neonatologija'
+			text: 'Svet'
 		},
 		{
 			cardInfo: 'economy',
-			text: 'Zdravljanje'
+			text: 'Gospodarstvo'
 		},
 		{
 			cardInfo: 'health',
-			text: 'Prehrana'
+			text: 'Zdravstvo'
 		}
 	],
 	
@@ -119,57 +119,57 @@ Telemed.sidebarMenu = (function($){
 	sport = [
 		{
 			cardInfo: 'basketball',
-			text: 'Estetska'
+			text: 'Košarka'
 		},
 		{
 			cardInfo: 'skiing',
-			text: 'Znamenja'
+			text: 'Smučanje'
 		},
 		{
 			cardInfo: 'football',
-			text: 'Diagnostika'
+			text: 'Nogomet'
 		},
 		{
 			cardInfo: 'formula1',
-			text: 'Zdravljanje'
+			text: 'Formula 1'
 		}
 	],
 
 	culture = [
 		{
 			cardInfo: 'film',
-			text: 'Anksioznost'
+			text: 'Film'
 		},
 		{
 			cardInfo: 'music',
-			text: 'Demenca'
+			text: 'Glasba'
 		},
 		{
 			cardInfo: 'exhibition',
-			text: 'Depresija'
+			text: 'Raztave'
 		},
 		{
 			cardInfo: 'books',
-			text: 'Psihoterapija'
+			text: 'Knjige'
 		}
 	],	
 
 	entertainment = [
 		{
 			cardInfo: 'attractions',
-			text: 'Endodontija'
+			text: 'Zanimivosti'
 		},
 		{
 			cardInfo: 'fashion',
-			text: 'Ortodontija'
+			text: 'Moda'
 		},
 		{
 			cardInfo: 'auto',
-			text: 'Parodontologija'
+			text: 'Avtobilizem'
 		},
 		{
 			cardInfo: 'horoscope',
-			text: 'Protetika'
+			text: 'Horoskop'
 		}
 	]
 	;
@@ -410,23 +410,23 @@ Telemed.sidebarMenu = (function($){
 				{
 					'name': 'news',	
 					obj: news,
-					info: 'Pedijatrija'
+					info: 'Aktualno'
 				},
 				{
 					'name': 'sport',
 					obj: sport,
-					info: 'Dermatologija'
+					info: 'Šport'
 				},
 				{
 					'name': 'entertainment',	
 					obj: entertainment,
-					info: 'Stomatologija'
+					info: 'Zabava'
 
 				}, 
 				{
 					'name': 'culture',	
 					obj: culture,
-					info: 'Psihijatrija'
+					info: 'Kultura'
 
 				}
 			];
